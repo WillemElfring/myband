@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Mijn eerste item</title>
+        <link>http://21319.hosts.ma-cloud.nl/bewijzenmap2/myband/myband/myband/</link>
+        <description>Ook al een mooi plaatje. In...</description>
+    <copyright>Copyrighted by willem</copyright>
+        <item>
+            <title>Weer een titel</title>
+            <link>http://21319.hosts.ma-cloud.nl/bewijzenmap2/myband/myband/myband/</link>
+            <description>Weer een titel<Order class=""></Order></description>
+            <pubdate>14-10-2016</pubdate>
+        </item>
+        <item>
+            <title>Obi-Wan Kenobi</title>
+            <link>http://21319.hosts.ma-cloud.nl/bewijzenmap2/myband/myband/myband/</link>
+            <description>Obi-Wan Kenobi was één van de belangrijkste Jedi die ooit heeft geleefd. Hij was één van de weinige Jedi die Order 66 overleefden. Kenobi trainde zowel Anakin Skywalker als Anakin's zoon Luke.</description>
+            <pubdate>14-10-2016</pubdate>
+        </item>
+        <item>
+            <title>Mace Windu</title>
+            <link>http://21319.hosts.ma-cloud.nl/bewijzenmap2/myband/myband/myband/</link>
+            <description>Mace Windu was één van de machtigste en bekendste Jedi Masters in de laatste jaren van de Galactic Republic.</description>
+            <pubdate>14-10-2016</pubdate>
+        </item>
+    </channel>
+</rss>
